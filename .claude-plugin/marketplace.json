@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "description": "Skills backup synced by Skills Manager",
+    "version": "2026.05.01"
+  },
+  "name": "miao",
+  "owner": {
+    "name": "miaoyouzhi0502-lang"
+  },
+  "plugins": []
+}
